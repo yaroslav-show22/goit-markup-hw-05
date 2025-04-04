@@ -447,10 +447,6 @@ a {
   gap: 24px;
 }
 
-.footer-subscribe-label {
-  /* Додано label, але стилі не потрібні, оскільки input вже стилізований */
-}
-
 .footer-subscribe-input {
   width: 264px;
   height: 40px;
