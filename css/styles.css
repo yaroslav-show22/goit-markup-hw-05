@@ -758,3 +758,10 @@ img {
 .form-submit-btn:focus {
   background-color: #404bbf;
 }
+
+.form-link {
+  line-height: 1.33333;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #4d5ae5;
+}
