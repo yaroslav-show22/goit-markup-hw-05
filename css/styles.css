@@ -630,15 +630,15 @@ img {
   flex-direction: column;
 }
 
-.form-group-1 {
+.form-group-q {
   margin-bottom: 8px;
 }
 
-.form-group-2 {
+.form-group-w {
   margin-bottom: 16px;
 }
 
-.form-group-3 {
+.form-group-e {
   margin-bottom: 24px;
 }
 
@@ -679,7 +679,7 @@ img {
 }
 
 .form-input:focus + .form-icon {
-  color: #4d5ae5;
+  fill: #4d5ae5;
 }
 
 .form-textarea {
